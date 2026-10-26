@@ -7,8 +7,8 @@ description: >-
   csv·json 파일을 첨부하며 차트·그래프·시각화를 요청할 때 켠다. 별도 프로그램·설치·네트워크·API 키가 없어도 돌고(파이썬 표준 라이브러리만 ·
   API 호출 없음), 산출물은 외부 라이브러리 없는 inline SVG 라 어디서나 열린다. 데이터를 모으는 일은 범위 밖 — 시장 분석 스킬(lm-skills)의 산출물을 받아 그린다.
 metadata:
-  build: v0.2.1
-  version: "0.2.1"
+  build: v0.2.2
+  version: "0.2.2"
   author: Ascent AI
   category: rendering
   tags: 차트, 시각화, 보고용 HTML, 카탈로그 26종
